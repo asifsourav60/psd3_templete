@@ -1,0 +1,186 @@
+body{
+background-image: url(../images/boat.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: 0.7;
+}
+
+.container{
+
+
+
+
+}
+.firsttop{
+
+}
+
+
+.topbars{
+	
+
+}
+.logo h1{
+	color:#fff;
+}
+.logo p{
+	color:#fff;
+}
+.topbars ul{
+
+}
+
+.topbars ul li{
+	
+display: inline-block;
+}
+.topbars ul li a{
+	text-decoration: none;
+	color:#fff;
+}
+
+.rightbar{
+	
+}
+
+.rightbar ul li{
+	display: inline-block;
+}
+.rightbar ul li a{
+	text-decoration: none;
+	color:#fff;
+}
+
+.sideimage img{
+	width:468px;
+	height:60px;
+}
+
+.navbar{
+	background: #5C5C5C;
+}
+
+.navbar ul li a{
+	color:white;
+}
+
+.sliser{
+margin-top: 
+}
+
+.slider .container{
+	overflow: hidden;
+}
+
+.orang{
+	background: orange;
+    height:277px;
+	
+}
+.final img{
+	width:100%;
+}
+.orang h5{
+	text-align: center;
+}
+
+.orang p{
+	text-align: center;
+}
+.crd{
+	margin-top: 40px;
+}
+.crd .container{
+	overflow: hidden;
+}
+.crd .c_image{
+	
+}
+.man{
+	margin: 0 auto;
+}
+.intro {
+	border-bottom: 1px solid blue;
+
+}
+.intro p{
+	color: #fff; 
+}
+
+.intro h4{
+	color:#fff;
+}
+
+.para h4{
+	border-bottom: 2px solid green;
+	    color: white;
+}
+.para p{
+	    color: #fff; 
+}
+.hdrr h4{
+	border-bottom: 2px dotted blue;
+
+}
+.lastbar{
+	margin-top: 30px;
+}
+.lastbar .row{
+	background: black;
+	overflow: hidden;
+}
+.lastbar h4{
+ color:orange;
+} 
+
+.lastbar p{
+	color: orange;
+}
+.custom-toggler .navbar-toggler{ 
+    border-color: black; 
+} 
+
+.custom-toggler .navbar-toggler-icon { 
+            background-image: url( 
+"data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
+        } 
+
+
+.dropdown-menu{
+
+	    background: #617bb0;
+}
+/*.secondbar{
+	    margin-top: 20px;
+	}
+
+.sideimage{
+	    margin-top: 10px;
+}
+
+.sideimage img{
+	width:468px;
+	height:60px;
+}
+
+.navigation{
+	margin-top: 20px;
+}
+.navbar{
+	background: #5C5C5C;
+}
+
+.navbar ul li a{
+	color:white;
+}
+
+.s_image{}
+
+.s_image img{
+	width: 600px;
+	height: 300px;
+}
+
+.orng{
+background:#FA5207;
+}*/
